@@ -1,0 +1,584 @@
+[
+    {
+        "file_name":"3PartHematologyAnalyzer.csv",
+        "num_columns":8,
+        "num_rows":3,
+        "columns":[
+            "Segment",
+            "Product Code",
+            "Name of Instrument",
+            "Slab\/Qty",
+            "Price\/Unit (Rs.)",
+            "FOC Reagents on MRP Rs.",
+            "Warranty",
+            "Payment Terms"
+        ]
+    },
+    {
+        "file_name":"3PartHematologyReagents.csv",
+        "num_columns":9,
+        "num_rows":8,
+        "columns":[
+            "Product Code",
+            "Material Description",
+            "Pack Size (ml)",
+            "New MRP \/ Kit (with GST) Rs.",
+            "Customer Trade Price Rs.",
+            "Saarthi Price Rs.",
+            "Transfer Price Rs.",
+            "Assorted 25 Kits Rs.",
+            "Assorted 50 Kits Rs."
+        ]
+    },
+    {
+        "file_name":"5PartHematologyAnalyzerWithoutAutoloader.csv",
+        "num_columns":8,
+        "num_rows":2,
+        "columns":[
+            "Segment",
+            "Product Code",
+            "Name of Instrument",
+            "Slab\/Qty",
+            "Price\/Unit (Rs.)",
+            "FOC Reagents on MRP Rs.",
+            "Warranty",
+            "Payment Terms"
+        ]
+    },
+    {
+        "file_name":"AQ100-200SystemPacks.csv",
+        "num_columns":9,
+        "num_rows":49,
+        "columns":[
+            "Product Code",
+            "Material Description",
+            "Pack Size",
+            "New MRP \/ Kit (with GST)",
+            "CTP",
+            "Saarthi Price",
+            "New TP (1-50)",
+            "Assorted 50",
+            "Assorted 100"
+        ]
+    },
+    {
+        "file_name":"AQ1200SystemPacks.csv",
+        "num_columns":5,
+        "num_rows":69,
+        "columns":[
+            "Material Code",
+            "Material Description",
+            "Pack Size (ml)",
+            "MRP (Rs.)",
+            "TP (Rs.)"
+        ]
+    },
+    {
+        "file_name":"AQ400SystemPacks.csv",
+        "num_columns":7,
+        "num_rows":59,
+        "columns":[
+            "Product Code",
+            "Material Description",
+            "Pack Size (ml)",
+            "MRP (\u20b9)",
+            "Customer Trade Price (\u20b9)",
+            "Saarthi Price (\u20b9)",
+            "DB Price (\u20b9)"
+        ]
+    },
+    {
+        "file_name":"AriQuantBS120-200Reagents.csv",
+        "num_columns":7,
+        "num_rows":38,
+        "columns":[
+            "Product Code",
+            "Material Description",
+            "Pack Size (ml)",
+            "MRP (Rs.)",
+            "Customer Trade Price (Rs.)",
+            "Saarthi Price (Rs.)",
+            "DB Price (Rs.)"
+        ]
+    },
+    {
+        "file_name":"AriQuantERreagents.csv",
+        "num_columns":7,
+        "num_rows":45,
+        "columns":[
+            "Product Code",
+            "Material Description",
+            "Pack Size (ml)",
+            "MRP (Rs.)",
+            "Customer Trade Price (Rs.)",
+            "Saarthi Price (Rs.)",
+            "DB Price (Rs.)"
+        ]
+    },
+    {
+        "file_name":"AriQuantHematologyReagents.csv",
+        "num_columns":11,
+        "num_rows":16,
+        "columns":[
+            "Product Code",
+            "Material Description",
+            "Pack",
+            "MRP Rs.",
+            "CTP Rs.",
+            "Saarthi Rs.",
+            "TP Rs.",
+            "50 Kits",
+            "100 Kits",
+            "200 Kits",
+            "300 Kits"
+        ]
+    },
+    {
+        "file_name":"BloodGrouping.csv",
+        "num_columns":9,
+        "num_rows":14,
+        "columns":[
+            "Slab",
+            "Material Code",
+            "Material Description",
+            "Pack Size",
+            "Qty in Slab",
+            "MRP (\u20b9)",
+            "CTP (\u20b9)",
+            "Saarthi (\u20b9)",
+            "Price \/ Kit as per slab (\u20b9)"
+        ]
+    },
+    {
+        "file_name":"CelQuant3AspireReagents.csv",
+        "num_columns":9,
+        "num_rows":10,
+        "columns":[
+            "Product Code",
+            "Material Description",
+            "Pack Size (ml)",
+            "New MRP \/ Kit (with GST) Rs.",
+            "Customer Trade Price Rs.",
+            "Saarthi Price Rs.",
+            "Transfer Price Rs.",
+            "Assorted 25 Kits Rs.",
+            "Assorted 50 Kits Rs."
+        ]
+    },
+    {
+        "file_name":"CelQuant3iReagents.csv",
+        "num_columns":8,
+        "num_rows":3,
+        "columns":[
+            "Material Code",
+            "Material Description",
+            "Pack Size",
+            "MRP Rs.",
+            "Customer TP Rs.",
+            "Saarthi TP Rs.",
+            "TP Rs.",
+            ">=3 Kits Rs."
+        ]
+    },
+    {
+        "file_name":"CelQuant5plusReagents.csv",
+        "num_columns":5,
+        "num_rows":15,
+        "columns":[
+            "Product Code",
+            "Material Description",
+            "Pack Size (ml\/L)",
+            "MRP Rs.",
+            "DB Price Rs."
+        ]
+    },
+    {
+        "file_name":"ClotQuant2-4Reagents.csv",
+        "num_columns":7,
+        "num_rows":8,
+        "columns":[
+            "Product Code",
+            "Material Description",
+            "Pack Size (ml)",
+            "MRP",
+            "Saarthi CTP",
+            "TP 1,799",
+            "TP 1,529\r"
+        ]
+    },
+    {
+        "file_name":"CoagulationElectrolyteAnalyzer.csv",
+        "num_columns":8,
+        "num_rows":4,
+        "columns":[
+            "Segment",
+            "Product Code",
+            "Name of Instrument",
+            "Slab\/Qty",
+            "Price\/Unit (Rs.)",
+            "FOC Reagents on MRP Rs.",
+            "Warranty",
+            "Payment Terms"
+        ]
+    },
+    {
+        "file_name":"ComboDeals.csv",
+        "num_columns":8,
+        "num_rows":6,
+        "columns":[
+            "Segment",
+            "Product Code",
+            "Name of Instrument",
+            "Slab\/Qty",
+            "Price\/Unit (Rs.)",
+            "FOC Reagents on MRP Rs.",
+            "Warranty",
+            "Payment Terms"
+        ]
+    },
+    {
+        "file_name":"ControlsCalibrators.csv",
+        "num_columns":6,
+        "num_rows":3,
+        "columns":[
+            "Material Code",
+            "Material Description",
+            "Pack Size (ml)",
+            "MRP (Rs.)",
+            "DB Price < 5 kits (Rs.)",
+            "DB Price > 5 kits (Rs.)"
+        ]
+    },
+    {
+        "file_name":"Elisa.csv",
+        "num_columns":12,
+        "num_rows":46,
+        "columns":[
+            "Category",
+            "Product Code",
+            "Material Description",
+            "Pack Size \/ Volume",
+            "MRP",
+            "CTP",
+            "Saarthi",
+            "TP",
+            "Slab",
+            "Qty in Slab (Tests)",
+            "Price \/ Kit (\u20b9)",
+            "Price \/ Test (\u20b9)"
+        ]
+    },
+    {
+        "file_name":"ElisaReaderWasher.csv",
+        "num_columns":8,
+        "num_rows":5,
+        "columns":[
+            "Segment",
+            "Product Code",
+            "Name of Instrument",
+            "Slab\/Qty",
+            "Price\/Unit (Rs.)",
+            "FOC Reagents on MRP Rs.",
+            "Warranty",
+            "Payment Terms"
+        ]
+    },
+    {
+        "file_name":"endo.csv",
+        "num_columns":13,
+        "num_rows":50,
+        "columns":[
+            " Sr.No ",
+            " SKU Code ",
+            " Short Specification ",
+            " Detailed Specification ",
+            " UOM ",
+            " Units ",
+            " LOB ",
+            " Portfolio ",
+            " Brand ",
+            " Sub Brand ",
+            " Speciality ",
+            " Section ",
+            " GST % "
+        ]
+    },
+    {
+        "file_name":"FloQuantReagents.csv",
+        "num_columns":11,
+        "num_rows":25,
+        "columns":[
+            "Product Code",
+            "Parameter",
+            "Pack Size (T)",
+            "MRP (Kit) Rs.",
+            "CTP (Kit) Rs.",
+            "CTP (Test) Rs.",
+            "Saarthi (Kit) Rs.",
+            "Saarthi (Test) Rs.",
+            "1 Kit Slab Rs.",
+            "CTP per Test (1 Kit Slab) Rs.",
+            "5 Kits + Slab Rs."
+        ]
+    },
+    {
+        "file_name":"FluidStableReagents.csv",
+        "num_columns":9,
+        "num_rows":39,
+        "columns":[
+            "Product Code",
+            "Material Description",
+            "Pack Size (ml)",
+            "New MRP \/ Kit (with GST)",
+            "New CTP",
+            "SAARTHI Price",
+            "New TP (1-50)",
+            "New Slab-2 (51-100)",
+            "New Slab-3 (101-200)"
+        ]
+    },
+    {
+        "file_name":"FluidStableReagentsJumboPacks.csv",
+        "num_columns":9,
+        "num_rows":16,
+        "columns":[
+            "Product Code",
+            "Material Description",
+            "Pack Size",
+            "New MRP \/ Kit (with GST)",
+            "New CTP",
+            "SAARTHI Price",
+            "New TP (1-50)",
+            "New Slab-2 (51-100)",
+            "New Slab-3 (101-200)"
+        ]
+    },
+    {
+        "file_name":"FreezeDriedReagents.csv",
+        "num_columns":9,
+        "num_rows":7,
+        "columns":[
+            "Product Code",
+            "Material Description",
+            "Pack Size",
+            "New MRP \/ Kit (with GST)",
+            "New CTP",
+            "SAARTHI Price",
+            "New TP (1-50)",
+            "New Slab-2 (51-100)",
+            "New Slab-3 (101-200)"
+        ]
+    },
+    {
+        "file_name":"FullyAutoBioAnalyser.csv",
+        "num_columns":8,
+        "num_rows":6,
+        "columns":[
+            "Segment",
+            "Product Code",
+            "Name of Instrument",
+            "Slab\/Qty",
+            "Price\/Unit (Rs.)",
+            "FOC Reagents on MRP Rs.",
+            "Warranty",
+            "Payment Terms"
+        ]
+    },
+    {
+        "file_name":"GluQuantA1cReagents.csv",
+        "num_columns":9,
+        "num_rows":1,
+        "columns":[
+            "Product Code",
+            "Material Description",
+            "Pack Size (T)",
+            "New MRP \/ Kit (with GST) Rs.",
+            "CTP Rs.",
+            "Saarthi Price Rs.",
+            "Transfer Price Rs.",
+            "5 Kits Rs.",
+            "10 Kits Rs."
+        ]
+    },
+    {
+        "file_name":"HPLCAnalyser.csv",
+        "num_columns":8,
+        "num_rows":3,
+        "columns":[
+            "Segment",
+            "Product Code",
+            "Name of Instrument",
+            "Slab\/Qty",
+            "Price\/Unit (Rs.)",
+            "FOC Reagents on MRP Rs.",
+            "Warranty",
+            "Payment Terms"
+        ]
+    },
+    {
+        "file_name":"ImmunofluorescenceAnalyzer.csv",
+        "num_columns":8,
+        "num_rows":1,
+        "columns":[
+            "Segment",
+            "Product Code",
+            "Name of Instrument",
+            "Slab\/Qty",
+            "Price\/Unit (Rs.)",
+            "FOC Reagents Rs.",
+            "Warranty",
+            "Payment Terms"
+        ]
+    },
+    {
+        "file_name":"Meriscreen.csv",
+        "num_columns":12,
+        "num_rows":50,
+        "columns":[
+            "Category",
+            "Product Code",
+            "Material Description",
+            "Pack Size \/ Volume",
+            "MRP",
+            "CTP",
+            "Saarthi",
+            "TP",
+            "Slab",
+            "Qty in Slab (Tests)",
+            "Price \/ Kit (\u20b9)",
+            "Price \/ Test (\u20b9)"
+        ]
+    },
+    {
+        "file_name":"MeriscreenSyphilis.csv",
+        "num_columns":12,
+        "num_rows":2,
+        "columns":[
+            "Category",
+            "Product Code",
+            "Material Description",
+            "Pack Size \/ Volume",
+            "MRP",
+            "CTP",
+            "Saarthi",
+            "TP",
+            "Slab",
+            "Qty in Slab (Tests)",
+            "Price \/ Kit (\u20b9)",
+            "Price \/ Test (\u20b9)"
+        ]
+    },
+    {
+        "file_name":"PipettesMerilettes.csv",
+        "num_columns":7,
+        "num_rows":19,
+        "columns":[
+            "Product Code",
+            "Material Description",
+            "Volume (\u00b5l)",
+            "MRP",
+            "CTP",
+            "Saarthi",
+            "TP"
+        ]
+    },
+    {
+        "file_name":"ProvisoNephelometry.csv",
+        "num_columns":9,
+        "num_rows":13,
+        "columns":[
+            "Product Code",
+            "Material Description",
+            "Pack Size",
+            "New MRP \/ Kit (with GST)",
+            "CTP",
+            "Saarthi Price",
+            "New TP (1-50)",
+            "Assorted 50",
+            "Assorted 100"
+        ]
+    },
+    {
+        "file_name":"QuadroHIV1-2Ab.csv",
+        "num_columns":12,
+        "num_rows":10,
+        "columns":[
+            "Category",
+            "Product Code",
+            "Material Description",
+            "Pack Size \/ Volume",
+            "MRP",
+            "CTP",
+            "Saarthi",
+            "TP",
+            "Slab",
+            "Qty in Slab (Tests)",
+            "Price \/ Kit (\u20b9)",
+            "Price \/ Test (\u20b9)"
+        ]
+    },
+    {
+        "file_name":"QuantilyterReagents.csv",
+        "num_columns":7,
+        "num_rows":15,
+        "columns":[
+            "Product Code",
+            "Material Description",
+            "Pack Size (ml)",
+            "MRP",
+            "CTP",
+            "Saarthi",
+            "TP"
+        ]
+    },
+    {
+        "file_name":"SemiAutoBioAnalyser.csv",
+        "num_columns":8,
+        "num_rows":7,
+        "columns":[
+            "Segment",
+            "Product Code",
+            "Name of Instrument",
+            "Slab\/Qty",
+            "Price\/Unit (Rs.)",
+            "FOC Reagents on MRP Rs.",
+            "Warranty",
+            "Payment Terms"
+        ]
+    },
+    {
+        "file_name":"TredroHCV.csv",
+        "num_columns":12,
+        "num_rows":10,
+        "columns":[
+            "Category",
+            "Product Code",
+            "Material Description",
+            "Pack Size \/ Volume",
+            "MRP",
+            "CTP",
+            "Saarthi",
+            "TP",
+            "Slab",
+            "Qty in Slab (Tests)",
+            "Price \/ Kit (\u20b9)",
+            "Price \/ Test (\u20b9)"
+        ]
+    },
+    {
+        "file_name":"TurbidimetryImmunoAssay.csv",
+        "num_columns":9,
+        "num_rows":13,
+        "columns":[
+            "Product Code",
+            "Material Description",
+            "Pack Size",
+            "New MRP \/ Kit (with GST)",
+            "CTP",
+            "Saarthi Price",
+            "New TP (1-50)",
+            "Assorted 50",
+            "Assorted 100"
+        ]
+    }
+]

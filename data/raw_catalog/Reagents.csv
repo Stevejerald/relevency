@@ -1,0 +1,51 @@
+Type,Type Shortform,Product Code,Material Description,Pack Size (ml),New MRP / Kit (with GST),New CTP,SAARTHI Price,New TP (1-50),New Slab-2 (51-100),New Slab-3 (101-200)
+Fluid Stable Reagents,FSR,ALBFSR-01,ALBUMIN,4 x 50,721,335,297,261,255,229
+Fluid Stable Reagents,FSR,TPRFSR-01,TOTAL PROTEIN,4 x 50,647,300,268,236,229,206
+Fluid Stable Reagents,FSR,BILFSR-01,BILIRUBIN (TOTAL & DIRECT),4 x 50,1319,612,548,482,465,418
+Fluid Stable Reagents,FSR,CAOFSR-01,CALCIUM - OCPC,2 x 25,718,342,307,270,254,229
+Fluid Stable Reagents,FSR,MTPFSR-01,MICROPROTEIN,2 x 25,1159,576,516,454,428,385
+Fluid Stable Reagents,FSR,ALPFSR-01,ALKALINE PHOSPHATASE,4 x 10,943,460,411,362,343,308
+Fluid Stable Reagents,FSR,ALPFSR-02,ALKALINE PHOSPHATASE,5 x 20,2226,987,884,778,734,659
+Fluid Stable Reagents,FSR,CHDFSR-01,CHLORIDE,2 x 25,462,215,193,170,160,144
+Fluid Stable Reagents,FSR,DBLFSR-01,DIRECT BILIRUBIN,4 x 25,441,248,222,195,193,190
+Fluid Stable Reagents,FSR,CLWFSR-01,CELL WASH,4 x 50,588,400,365,321,321,321
+Fluid Stable Reagents,FSR,URCFSR-02,URIC ACID,4 x 50,2657,1498,"1,341","1,180","1,137","1,022"
+Fluid Stable Reagents,FSR,CHOFSR-01,CHOLESTEROL,4 x 25,1279,729,652,574,537,482
+Fluid Stable Reagents,FSR,TBLFSR-01,TOTAL BILIRUBIN,4 x 25,535,292,261,230,215,193
+Fluid Stable Reagents,FSR,GPTFSR-01,SGPT,4 x 20 / 4 x 5,1424,696,623,548,511,459
+Fluid Stable Reagents,FSR,CHOFSR-02,CHOLESTEROL,4 x 50,3108,1350,"1,214","1,068",992,892
+Fluid Stable Reagents,FSR,UREFSR-01,UREA,4 x 20 / 4 x 5,1571,760,684,602,559,502
+Fluid Stable Reagents,FSR,UREFSR-02,UREA (with 2 standards),4 x 100 / 2 x 50,6080,2807,"2,513","2,211","2,054","1,846"
+Fluid Stable Reagents,FSR,URCFSR-01,URIC ACID,4 x 10,794,429,384,338,314,282
+Fluid Stable Reagents,FSR,GOTFSR-01,SGOT,4 x 20 / 4 x 5,1507,733,657,578,534,480
+Fluid Stable Reagents,FSR,CREFSR-03,CREATININE,2 x 25 / 2 x 25,722,351,315,277,255,230
+Fluid Stable Reagents,FSR,BILFSR-02,BILIRUBIN (TOTAL & DIRECT),2 x 200,2476,1201,"1,075",946,867,780
+Fluid Stable Reagents,FSR,CAAFSR-01,CALCIUM - ARSENAZO,2 x 25,965,470,422,371,338,304
+Fluid Stable Reagents,FSR,HDCFSR-01,HDL - CHOLESTEROL,4 x 25,1291,629,564,496,452,406
+Fluid Stable Reagents,FSR,CREFSR-04,CREATININE,3 x 50 / 3 x 50,2100,908,813,715,651,585
+Fluid Stable Reagents,FSR,PHOFSR-01,PHOSPHOROUS,2 x 25,579,284,255,224,204,183
+Fluid Stable Reagents,FSR,AMYFSR-01,AMYLASE,4 x 10,4851,"2,350","2,118","1,864","1,697","1,526"
+Fluid Stable Reagents,FSR,GLUFSR-03,GLUCOSE,4 x 250,2489,1150,"1,030",906,826,742
+Fluid Stable Reagents,FSR,LDHFSR-01,LDH - P,1 x 8 / 1 x 2,571,279,251,221,200,180
+Fluid Stable Reagents,FSR,GGTFSR-01,GGT,1 x 8 / 1 x 2,809,361,324,285,260,233
+Fluid Stable Reagents,FSR,CKMFSR-01,CK MB,2 x 8 / 2 x 2,4058,1982,"1,774","1,561","1,423","1,278"
+Fluid Stable Reagents,FSR,CKNFSR-01,CK NAC,2 x 8 / 2 x 2,1610,784,701,617,562,506
+Fluid Stable Reagents,FSR,TRGFSR-01,TRIGLYCERIDE,4 x 25,3330,1630,"1,459","1,284","1,170","1,051"
+Fluid Stable Reagents,FSR,TRGFSR-02,TRIGLYCERIDE,4 x 50,6825,2917,"2,610","2,297","2,094","1,881"
+Fluid Stable Reagents,FSR,LIPFSR-01,LIPASE,1 x 16 / 1 x 10,6949,3850,"3,435","3,023","2,754","2,475"
+Fluid Stable Reagents,FSR,HDLFSR-02,HDL Direct,4 x 30 / 4 x 10,12647,6500,"5,898","5,190","4,730","4,250"
+Fluid Stable Reagents,FSR,LDLFSR-01,LDL CHOLESTEROL - DIRECT,1 x 24 / 1 x 8,7781,3186,"2,852","2,510","2,287","2,055"
+Fluid Stable Reagents,FSR,LDLFSR-02,LDL CHOLESTEROL - DIRECT,2 x 30 / 2 x 10,14455,6990,6390,"5,623","5,124","4,605"
+Fluid Stable Reagents,FSR,HDLFSR-01,HDL Direct,2 x 24 / 2 x 8,7820,3515,3147,"2,769","2,507","2,253"
+Fluid Stable Reagents,FSR,GLUFSR-02,GLUCOSE,5 x 100,1348,690,618,544,476,428
+Fluid Stable Reagents Jumbo Packs,FSR-Jumbo,ALBFSR-02,ALBUMIN (With 2 Standards),2 x 500,"1,570","1,021",900,790,720,600
+Fluid Stable Reagents Jumbo Packs,FSR-Jumbo,BILFSR-03,BILIRUBIN (TOTAL & DIRECT),4 x 250,"2,020","1,313","1,155","1,020",900,700
+Fluid Stable Reagents Jumbo Packs,FSR-Jumbo,BILFSR-04,BILIRUBIN (TOTAL & DIRECT),2 x 500,"1,680","1,092",961,850,790,700
+Fluid Stable Reagents Jumbo Packs,FSR-Jumbo,CHOFSR-03,CHOLESTEROL (With 2 Standards),5 x 100,"3,360","2,184","1,922","1,700","1,650","1,600"
+Fluid Stable Reagents Jumbo Packs,FSR-Jumbo,CREFSR-05,CREATININE (With 2 Standards),2 x 250,"1,010",780,686,605,595,590
+Fluid Stable Reagents Jumbo Packs,FSR-Jumbo,CREFSR-06,CREATININE (With 2 Standards),2 x 500,"1,680","1,480","1,380","1,270","1,210","1,170"
+Fluid Stable Reagents Jumbo Packs,FSR-Jumbo,GLUFSR-04,GLUCOSE (With 2 Standards),4 x 500,"3,580","2,327","2,048","1,800","1,680","1,300"
+Fluid Stable Reagents Jumbo Packs,FSR-Jumbo,GOTFSR-02,SGOT,4 x 100 / 2 x 50,"4,480","2,912","2,563","2,255","2,025","1,750"
+Fluid Stable Reagents Jumbo Packs,FSR-Jumbo,GPTFSR-02,SGPT,4 x 100 / 2 x 50,"4,480","2,912","2,563","2,255","2,025","1,850"
+Fluid Stable Reagents Jumbo Packs,FSR-Jumbo,TPRFSR-02,TOTAL PROTEIN,2 x 500,"1,570","1,021",898,800,780,750
+Fluid Stable Reagents Jumbo Packs,FSR-Jumbo,URCFSR-03,URIC ACID (With 2 Standards),10 x 50,"5,040","3,276","2,883","2,535","2,350","1,850"
