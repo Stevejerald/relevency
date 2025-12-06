@@ -137,6 +137,7 @@ def predict_relevancy(query, top_k=5):
     type_conf = float(type_proba[type_labels.index(type_pred)]) if type_pred in type_labels else 0.0
 
     keyword_type = detect_type_from_keywords(query)
+    
 
     # 4) strict-type filtering (if enabled)
     filtered_idxs = idxs
@@ -169,7 +170,16 @@ def predict_relevancy(query, top_k=5):
         cand_type_conf = 0.0
         if cand_type in type_labels:
             cand_type_conf = float(type_proba[type_labels.index(cand_type)])
-        raw_score = EMB_WEIGHT * emb_score + TYPE_WEIGHT * cand_type_conf + TOKEN_WEIGHT * tok_score
+        # If keyword_type detected ⇒ strong confidence in type
+            if keyword_type and keyword_type == cand_type:
+                boosted_type_conf = 1.0     # FULL CONFIDENCE
+            else:
+                boosted_type_conf = cand_type_conf
+
+            raw_score = (EMB_WEIGHT * emb_score
+                + TYPE_WEIGHT * boosted_type_conf
+                + TOKEN_WEIGHT * tok_score)
+
 
         candidates.append({
             "index": int(i),
@@ -249,7 +259,7 @@ def predict_relevancy(query, top_k=5):
 # ---------- Quick local test ----------
 if __name__ == "__main__":
     tests = [
-        "Small blood CBC analyzer 5-part with autoloader"
+        "5 Part Automated Hematology Analyser (V2) (Q2)"
     ]
     for t in tests:
         print(json.dumps(predict_relevancy(t, top_k=3), indent=2))

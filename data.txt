@@ -26,6 +26,15 @@ B. Reagents:
     1. Fluid Stable Reagents (FSR) -> FluidStableReagents.csv
     2. Fluid Stable Reagents Jumbo Packs -> FluidStableReagentsJumboPacks.csv
     3. Freeeze Dried Reagents (FDR) -> FreezeDriedReagents.csv
+    J. GluQuant A1c Reagents -> GluQuantA1cReagents.csv
+
+    K. FloQuant Reagents -> FloQuantReagents.csv
+
+    L. ClotQuant 2/4 Reagents -> ClotQuant2-4Reagents.csv
+
+    M. Quantilyter Reagents -> QuantilyterReagents.csv
+
+    H. 3 Part Hematology Reagents -> 3PartHematologyReagents.csv
 
 C. Controls & Calibrators:
     1. Controls & Calibrators -> ControlsCalibrators.csv
@@ -53,13 +62,6 @@ I. CelQuant Reagents:
     2. CelQuant 3i Reagents -> CelQuant3iReagents.csv
     3. CelQuant 5+ Reagents -> CelQuant5plusReagents.csv
 
-J. GluQuant A1c Reagents -> GluQuantA1cReagents.csv
-
-K. FloQuant Reagents -> FloQuantReagents.csv
-
-L. ClotQuant 2/4 Reagents -> ClotQuant2-4Reagents.csv
-
-M. Quantilyter Reagents -> QuantilyterReagents.csv
 
 N. Pipettes-Merilettes -> PipettesMerilettes.csv
 
